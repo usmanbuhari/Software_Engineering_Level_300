@@ -1,1 +1,44 @@
-
+1. A software process model is an abstract representation of a software development process. 
+    It is important in software development because it helps project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers
+   
+2a. The main difference between Agile vs. Waterfall is that Waterfall breaks down software development into distinct phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+ b. BENEFITS OF WATERFALL
+    1.Uses clear structure
+When compared with other methodologies, Waterfall focuses most on a clear, defined set of steps.
+     2. Determines the end goal early
+One of the defining steps of Waterfall is committing to an end product, goal, or deliverable at the beginning, and teams should avoid deviating from that commitment.
+                         DRAWBACKS OF WATERFALL
+ 1. Makes changes difficult
+Waterfall is based entirely on following a set of steps that keep teams always moving forward. The methodology, in its traditional form, leaves almost no room for unexpected changes or revisions.
+ 2 .Delays testing until completion.
+Saving the testing phase until the last half of a project is risky, but Waterfall insists that teams wait until steps are completed before testing their products.
+                               BENEFITS OF AGILE
+  1. The highest priority is to satisfy the customer through early and continuous delivery of valuable software. Customer satisfaction and quality deliverables are
+  2. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage. Don’t fight change, instead learn to take advantage of it.
+                                    DRAWBACKS OF AGILE
+   1.The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
+   2. It is not suitable for large projects
+   
+   
+   3. Rational Unified Process (RUP) is a software development process for object-oriented models. A modern generic process derived from the work on the UML(Unified Modeling Language) and associated process.
+  * One difference between RUP and Agile is that RUP is a framework for organizations and teams, while the Agile process is more intended for a product team with strict/clear guidelines. RUP uses its predefined phases more specifically and these phases show what you do in the different phases.
+  * The main deference between RUP and Waterfall is that while Waterfall methodology is clearly a sequential process with prescribed steps in which current phase is completed before going to the next phase, RUP is an iterative process. Unlike the waterfall methodology, RUP develops the product in several stages based on feedback from the stockholders.
+  
+  b. * The inception phase involves team discussions around the basic idea and structure of the project as well as the resources necessary for completion. This phase involves market research, cost analyses, project planning, risk assessments, vision documents or scope statements, and, in some cases, prototypes.
+     * The elaboration phase involves a more detailed evaluation of the development plan with the aim of further minimizing associated risks. There is an assessment of the required system architecture to make it feasible and the development of prototypes when being used.
+     * The construction phase is the phase where the project is developed and completed. It is the phase in which the source code is created and other features of the system are developed.
+     * Transition phase –
+       The final project is released to the public.
+       Transit the project from development into production.
+       Update project documentation.
+         
+                     BENEFITS OF RUP
+     * Giving regular feedback to stakeholders: A vital part of the RUP process is giving consistent updates to project stakeholders. These stakeholders may range from other software individuals involved in the project to company leaders or vendors.
+         
+     * Offering thorough documentation: The RUP process involves carefully documenting each step, which can be highly beneficial for collaborative projects.
+                     DRAWBACKS OF RUP
+        * The process is too complex
+        * Heavy documentation can be expensive
+        
+        
+      
